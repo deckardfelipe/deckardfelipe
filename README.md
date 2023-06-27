@@ -1,8 +1,13 @@
-## Olá!
+## Olá, me chamo Felipe!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nemmanc/)[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/nemmanc)
+### Desenvolvedor Android Junior, amante de Linux e trilíngue. :earth_americas:
 
-#
+
+###
+
+[LinkedIn](https://www.linkedin.com/in/nemmanc/)
+
+[Codewars](https://www.codewars.com/users/nemmanc)
 
 ### Tecnologias
 

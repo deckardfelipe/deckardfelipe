@@ -13,11 +13,9 @@
 >Comecei criando servidores para jogos, fazendo manutenção de hardware e, nesse período, tive contato com tecnologias como: Java, Python, o clássico Ubuntu Server e algumas outras tecnologias WEB.
 >
 >Atualmente, estudando e construindo projetos em GO(golang), aprendendo meu terceiro idioma e escovando bits nas horas vagas.
-***
+
 ### Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nemmanc/)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/inemmanc)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/inemmanc)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/inemmanc/)
-
-<nemmanc@protonmail.com>

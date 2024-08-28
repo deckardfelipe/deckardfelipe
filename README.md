@@ -2,7 +2,6 @@
 
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
@@ -12,7 +11,7 @@
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 >Fascinado pela "Matrix" desde os 7 anos, quando ganhei meu primeiro computador.
->Comecei criando servidores para jogos, fazendo manutenção de hardware e, nesse período, tive contato com tecnologias como: Java, Python, o clássico Ubuntu Server e algumas outras tecnologias WEB.
+>Comecei criando servidores para jogos, fazendo manutenção de hardware e, nesse período, tive contato com tecnologias como Java, Python, o clássico Ubuntu Server e algumas outras tecnologias WEB.
 >
 >Atualmente, estudando e construindo projetos em GO(golang), aprendendo meu terceiro idioma e escovando bits nas horas vagas.
 

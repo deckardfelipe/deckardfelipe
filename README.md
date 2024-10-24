@@ -12,8 +12,6 @@
 
 >Fascinado pela "Matrix" desde os 7 anos, quando ganhei meu primeiro computador.
 >Comecei criando servidores para jogos, fazendo manutenção de hardware e, nesse período, tive contato com tecnologias como Java, Python, o clássico Ubuntu Server e algumas outras tecnologias WEB.
->
->Atualmente, estudando e construindo projetos em GO(golang), aprendendo meu terceiro idioma e escovando bits nas horas vagas.
 
 ### Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nemmanc/)
